@@ -14,6 +14,7 @@ modal.addEventListener('click',function(e){
     if(e.target.classList.contains('button')){
         modal.style.display = 'none';
         overlay.style.display = 'none';
+        
         startGame();
     }
 })
@@ -454,4 +455,5 @@ window.addEventListener('keydown',function(e){
         }
     }
 });
+    
 }

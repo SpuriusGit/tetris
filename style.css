@@ -31,7 +31,7 @@ body{
     width: 50px;
     height: 50px;
     border: 1px solid #ccc;
-    border-radius: 50%;
+    border-radius: 10px;
 }
 .figure {
     background-color: green;
